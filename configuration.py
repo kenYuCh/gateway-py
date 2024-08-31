@@ -2,12 +2,12 @@
 
 __wifi_info = {
 	'ken': {
-		"ssid": "SianAP",
-		"password": "sian79917"
+		"ssid": "gjhoaeke",
+		"password": "dsfo3d"
 	},
-	'oas': {
-		"ssid": "SianAP",
-		"password": "sian79917"
+	'ken2': {
+		"ssid": "dwll32",
+		"password": "diirkkvo"
 	}
 }
 
